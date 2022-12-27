@@ -1,16 +1,11 @@
-# wisata_bandung
+# Wisata Bandung App
 
-A new Flutter project.
+I made this project to take part in a do codelab exercise while studying at Dicoding
 
-## Getting Started
+ Main Screen            |   Detail creen
+:-------------------------:|:-------------------------:
+<img src="images\forReadMe\main_screen.png">  |  <img src="images\forReadMe\detail_screen.png">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Main Screen Desktop View
+<img src="images\forReadMe\main_screen_desktop.png">
